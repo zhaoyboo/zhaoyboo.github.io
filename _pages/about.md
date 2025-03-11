@@ -35,7 +35,7 @@ Oct. 2022 - Jan 2023 -->
 
 Teaching
 ======
-Teaching Assistant, CMSC216 Introduction to Computer Systems
+Teaching Assistant, CMSC216 Introduction to Computer Systems <br>
 University of Maryland, College Park, [Fall 2024](https://www.cs.umd.edu/~profk/216/)  
 
 Teaching Assistant, CS110 Computer Architecture  
