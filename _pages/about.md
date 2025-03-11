@@ -22,7 +22,7 @@ Zeying Zhu, <u>Yibo Zhao</u>, Zaoxing Liu
 **[EuroSys’24]** Snatch: Online Streaming Analytics at the Network   
 Yunming Xiao, <u>Yibo Zhao</u>, Sen Lin, Aleksandar Kuzmanovic <br>
 <strong><font color="red">Best Student Paper </font> </strong>   
-[[Paper](https://yunmingxiao.github.io/publication/sn)] [[Talk](https://www.youtube.com/watch?v=O0XLfwpqgTY&feature=youtu.be)]  
+[[Paper](https://yunmingxiao.github.io/publication/snatch/snatch-eurosys24-xiao.pdf)] [[Talk](https://www.youtube.com/watch?v=O0XLfwpqgTY&feature=youtu.be)]  
 
 
 
