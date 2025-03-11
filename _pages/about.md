@@ -41,8 +41,8 @@ University of Maryland, College Park, [Fall 2024](https://www.cs.umd.edu/~profk/
 Teaching Assistant, CS110 Computer Architecture  
 Shanghaitech University, [Spring 2022](http://robotics.shanghaitech.edu.cn/courses/ca/22s/)
 
-Service
+<!-- Service
 ======
 
 Awards
-======
+====== -->
