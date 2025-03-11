@@ -20,7 +20,7 @@ Zeying Zhu, <u>Yibo Zhao</u>, Zaoxing Liu
 [[Paper](https://www.usenix.org/system/files/fast24-zhu.pdf)] [[Code](https://github.com/Froot-NetSys/NetMigrate)] [[Slides](https://zzylol.github.io/files/NetMigrate_slides_zhu.pptx)] [[FAST'24 Talk](https://youtu.be/l1fZykAGdM0)] 
 
 **[EuroSys’24]** Snatch: Online Streaming Analytics at the Network   
-Yunming Xiao, <u>Yibo Zhao</u>, Sen Lin, Aleksandar Kuzmanovic
+Yunming Xiao, <u>Yibo Zhao</u>, Sen Lin, Aleksandar Kuzmanovic <br>
 <strong><font color="red">Best Student Paper </font> </strong>   
 [[Paper](https://yunmingxiao.github.io/publication/sn)] [[Talk](https://www.youtube.com/watch?v=O0XLfwpqgTY&feature=youtu.be)]  
 
